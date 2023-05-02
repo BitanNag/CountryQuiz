@@ -53,6 +53,10 @@
         }
     }
 
+    .success-box h1 {
+        color: green;
+    }
+
     .success-box p {
         text-align: center;
     }

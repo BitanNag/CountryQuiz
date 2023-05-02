@@ -53,6 +53,10 @@
         }
     }
 
+    .failure-box h1 {
+        color: red;
+    }
+
     .failure-box p {
         text-align: center;
     }
