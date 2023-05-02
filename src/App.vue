@@ -119,7 +119,9 @@
 	.country-quiz-app .box-container {
 		width: 100%;
 		height: 100%;
-		position: relative;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 		border: 1px solid grey;
 		border-radius: 20px;
 		display: flex;

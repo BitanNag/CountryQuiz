@@ -20,10 +20,6 @@
 <style>
 
     .welcome-box {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
         height: 350px;
         width: 600px;
         border: 2px solid goldenrod;
